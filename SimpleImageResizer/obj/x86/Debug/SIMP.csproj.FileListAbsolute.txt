@@ -1,0 +1,10 @@
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\bin\Debug\SIMP.exe
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\bin\Debug\SIMP.pdb
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Debug\SimpleImageResizer.ImageResizer.resources
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Debug\SIMP.Properties.Resource.resources
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Debug\SIMP.Properties.Resources.resources
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Debug\SIMP.exe
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Debug\SIMP.pdb

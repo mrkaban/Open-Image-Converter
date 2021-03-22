@@ -1,0 +1,40 @@
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\bin\Release\SIMP.exe
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\bin\Release\SIMP.pdb
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Release\SimpleImageResizer.ImageResizer.resources
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Release\SIMP.Properties.Resource.resources
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Release\SIMP.Properties.Resources.resources
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Release\SIMP.exe
+C:\Users\dimitar.rusev\Desktop\HomeImageResizer\SimpleImageResizer\obj\x86\Release\SIMP.pdb
+C:\Users\S-R-GRasS\Desktop\photoresizer-code-116\HomeImageResizer\SimpleImageResizer\obj\x86\Release\SimpleImageResizer.ImageResizer.resources
+C:\Users\S-R-GRasS\Desktop\photoresizer-code-116\HomeImageResizer\SimpleImageResizer\obj\x86\Release\SIMP.Properties.Resource.resources
+C:\Users\S-R-GRasS\Desktop\photoresizer-code-116\HomeImageResizer\SimpleImageResizer\obj\x86\Release\SIMP.Properties.Resources.resources
+C:\Users\S-R-GRasS\Desktop\photoresizer-code-116\HomeImageResizer\SimpleImageResizer\obj\x86\Release\SIMP.csproj.GenerateResource.Cache
+C:\Users\S-R-GRasS\Desktop\photoresizer-code-116\HomeImageResizer\SimpleImageResizer\obj\x86\Release\SIMP.csproj.CoreCompileInputs.cache
+C:\Users\S-R-GRasS\Desktop\photoresizer-code-116\HomeImageResizer\SimpleImageResizer\obj\x86\Release\SIMP.csprojResolveAssemblyReference.cache
+C:\Users\S-R-GRasS\Desktop\photoresizer-code-116\HomeImageResizer\SimpleImageResizer\bin\Release\Open Image Converter.exe
+C:\Users\S-R-GRasS\Desktop\photoresizer-code-116\HomeImageResizer\SimpleImageResizer\bin\Release\Open Image Converter.pdb
+C:\Users\S-R-GRasS\Desktop\photoresizer-code-116\HomeImageResizer\SimpleImageResizer\obj\x86\Release\Open Image Converter.exe
+C:\Users\S-R-GRasS\Desktop\photoresizer-code-116\HomeImageResizer\SimpleImageResizer\obj\x86\Release\Open Image Converter.pdb
+\\MRKABAN-PC\Public\Open Image Converter\SimpleImageResizer\bin\Release\Open Image Converter.exe
+\\MRKABAN-PC\Public\Open Image Converter\SimpleImageResizer\bin\Release\Open Image Converter.pdb
+\\MRKABAN-PC\Public\Open Image Converter\SimpleImageResizer\obj\x86\Release\SIMP.csprojResolveAssemblyReference.cache
+\\MRKABAN-PC\Public\Open Image Converter\SimpleImageResizer\obj\x86\Release\SimpleImageResizer.ImageResizer.resources
+\\MRKABAN-PC\Public\Open Image Converter\SimpleImageResizer\obj\x86\Release\SIMP.Properties.Resource.resources
+\\MRKABAN-PC\Public\Open Image Converter\SimpleImageResizer\obj\x86\Release\SIMP.Properties.Resources.resources
+\\MRKABAN-PC\Public\Open Image Converter\SimpleImageResizer\obj\x86\Release\SIMP.csproj.GenerateResource.Cache
+\\MRKABAN-PC\Public\Open Image Converter\SimpleImageResizer\obj\x86\Release\SIMP.csproj.CoreCompileInputs.cache
+\\MRKABAN-PC\Public\Open Image Converter\SimpleImageResizer\obj\x86\Release\Open Image Converter.exe
+\\MRKABAN-PC\Public\Open Image Converter\SimpleImageResizer\obj\x86\Release\Open Image Converter.pdb
+C:\Users\S-R-GRasS\Desktop\Open Image Converter\SimpleImageResizer\bin\Release\Open Image Converter.exe
+C:\Users\S-R-GRasS\Desktop\Open Image Converter\SimpleImageResizer\bin\Release\Open Image Converter.pdb
+C:\Users\S-R-GRasS\Desktop\Open Image Converter\SimpleImageResizer\obj\x86\Release\SIMP.csprojResolveAssemblyReference.cache
+C:\Users\S-R-GRasS\Desktop\Open Image Converter\SimpleImageResizer\obj\x86\Release\SimpleImageResizer.ImageResizer.resources
+C:\Users\S-R-GRasS\Desktop\Open Image Converter\SimpleImageResizer\obj\x86\Release\SIMP.Properties.Resource.resources
+C:\Users\S-R-GRasS\Desktop\Open Image Converter\SimpleImageResizer\obj\x86\Release\SIMP.Properties.Resources.resources
+C:\Users\S-R-GRasS\Desktop\Open Image Converter\SimpleImageResizer\obj\x86\Release\SIMP.csproj.GenerateResource.Cache
+C:\Users\S-R-GRasS\Desktop\Open Image Converter\SimpleImageResizer\obj\x86\Release\SIMP.csproj.CoreCompileInputs.cache
+C:\Users\S-R-GRasS\Desktop\Open Image Converter\SimpleImageResizer\obj\x86\Release\Open Image Converter.exe
+C:\Users\S-R-GRasS\Desktop\Open Image Converter\SimpleImageResizer\obj\x86\Release\Open Image Converter.pdb
